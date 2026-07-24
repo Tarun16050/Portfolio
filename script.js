@@ -175,7 +175,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const apiTimer = setInterval(() => {
     apiN++;
     heroApiCount.textContent = apiN;
-    if (apiN >= 20) clearInterval(apiTimer);
+    if (apiN >= 50) clearInterval(apiTimer);
   }, 90);
 
   /* ---------- Scroll reveal ---------- */
