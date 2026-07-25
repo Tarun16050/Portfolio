@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tarun16050.github.io/Portfolio/sitemap.xml
