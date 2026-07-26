@@ -51,7 +51,7 @@ tarunPortfolio/
 ├── style.css                 # All styling
 ├── script.js                  # Interactivity & animations
 ├── Tarun_Patidar_Resume.pdf   # Downloadable resume
-└── tp.jfif                    # Profile photo
+└── tarun.jpg                    # Profile photo
 ```
 
 ## Customization
