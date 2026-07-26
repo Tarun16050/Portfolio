@@ -615,7 +615,7 @@ input, textarea { font-family: inherit; }
   transform-style: preserve-3d;
 }
 .project-card:hover { border-color: var(--border-strong); box-shadow: 0 24px 60px -24px rgba(139,92,246,0.35); }
-.project-icon { font-size: 1.8rem; margin-bottom: 14px; display: inline-block; transition: transform .3s ease; }
+.project-icon { font-size: 1.5rem; margin-bottom: 14px; margin-right: 10px; display: inline-block; transition: transform .3s ease; }
 .project-card:hover .project-icon { transform: scale(1.15) rotate(-6deg); }
 .project-kind { font-family: var(--font-mono); font-size: 0.72rem; color: var(--cyan); letter-spacing: 0.06em; text-transform: uppercase; }
 .project-title { font-family: var(--font-display); font-size: 1.25rem; font-weight: 600; margin: 8px 0 12px; }
